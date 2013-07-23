@@ -1,30 +1,37 @@
 {
   "name": "generator-taram",
+
   "version": "0.0.1",
+
   "description": "Tara's generator for Yeoman",
+
   "keywords": [
     "yeoman-generator"
   ],
+
   "homepage": "https://github.com/tara-marchand/generator-taram",
+
   "bugs": "https://github.com/tara-marchand/generator-taram/issues",
+
   "author": {
     "name": "Tara Marchand",
-    "url": "https://github.com/tara-marchand"
+    "url": "http://www.tmarchand.com/"
   },
-  "main": "app/index.js",
+
   "repository": {
     "type": "git",
     "url": "git://github.com/tara-marchand/generator-taram.git"
   },
+
   "dependencies": {
     "yeoman-generator": "~0.12.0"
   },
+
   "engines": {
     "node": ">=0.8.0"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ]
+
+  "license": "MIT",
+
+  "private": true
 }

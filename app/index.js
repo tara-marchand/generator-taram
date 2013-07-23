@@ -36,7 +36,6 @@ TaramGenerator.prototype.app = function app() {
     this.template('Gruntfile.js');
     this.copy('bowerrc', '.bowerrc');
     this.copy('gitignore', '.gitignore');
-    this.copy('jshintrc', '.jshintrc');
 
     this.mkdir('app');
     this.mkdir('app/css');

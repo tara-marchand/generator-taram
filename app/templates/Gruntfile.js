@@ -48,7 +48,7 @@ module.exports = function (grunt) {
                     }
                 ]
             }
-        },
+        }
 
         // usemin: {
         //     html: [

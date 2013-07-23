@@ -1,0 +1,1297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentUiViewId"
+			],
+			[
+				"pause",
+				"pauseOverlayEl"
+			],
+			[
+				"center",
+				"centerPauseIcon"
+			],
+			[
+				"video",
+				"videoData"
+			],
+			[
+				"nav",
+				"navItems"
+			],
+			[
+				"deb",
+				"deborahVideos"
+			],
+			[
+				"peter",
+				"peterDeborahVideos"
+			],
+			[
+				"pet",
+				"peterDeborahVideos"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"splash",
+				"splashContainerEl"
+			],
+			[
+				"deborah",
+				"deborahGuide"
+			],
+			[
+				"debora",
+				"deborahGuide"
+			],
+			[
+				"mul",
+				"multipleUsers"
+			],
+			[
+				"debo",
+				"deborahShowList"
+			],
+			[
+				"render",
+				"renderUiView"
+			],
+			[
+				"de",
+				"defaultScope"
+			],
+			[
+				"p",
+				"peterDeborahEls"
+			],
+			[
+				"toggle",
+				"toggleOnNowUsers"
+			],
+			[
+				"overfl",
+				"overflow"
+			],
+			[
+				"navItem",
+				"navItemEls"
+			],
+			[
+				"webkit-transition",
+				"webkit-transition-delay"
+			],
+			[
+				"webkit-tran",
+				"webkit-transition"
+			],
+			[
+				"ic",
+				"pauseOverlayIconEl"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"pauseI",
+				"pauseOverlayIconEl"
+			],
+			[
+				"pau",
+				"pauseOverlayEl"
+			],
+			[
+				"pauseOver",
+				"pauseOverlayIconEl"
+			],
+			[
+				"ne",
+				"nextElementSibling"
+			],
+			[
+				"gra",
+				"grabberEl"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"g",
+				"grabberEl"
+			],
+			[
+				"v",
+				"va:t	vertical-align:top"
+			],
+			[
+				"Segoe",
+				"SegoeSemibold"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"he",
+				"headerEl"
+			],
+			[
+				"change",
+				"changeClassName"
+			],
+			[
+				"cha",
+				"changeClassName"
+			],
+			[
+				"home",
+				"homeContainerEl"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"stuff-",
+				"stuff-copy"
+			],
+			[
+				"t",
+				"ti	text-indent"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"html",
+				"htmlData"
+			],
+			[
+				"view",
+				"viewSelector"
+			],
+			[
+				"container",
+				"containerName"
+			],
+			[
+				"load",
+				"loadView"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"live",
+				"liveContentItems"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"build",
+				"build_dirs"
+			],
+			[
+				"on",
+				"onDeviceReady"
+			],
+			[
+				"pers",
+				"personListItem"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"suc",
+				"successCallback"
+			],
+			[
+				"start",
+				"startProxy"
+			],
+			[
+				"serv",
+				"servicePath"
+			],
+			[
+				"in",
+				"inOffices"
+			],
+			[
+				"servic",
+				"servicePeople"
+			],
+			[
+				"depts",
+				"deptsData"
+			],
+			[
+				"all",
+				"allDepartments"
+			],
+			[
+				"logo",
+				"logoLeft"
+			],
+			[
+				"mobile",
+				"mobileBtnRight"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"anim",
+				"animateCharacters"
+			],
+			[
+				"slide",
+				"slideIn"
+			],
+			[
+				"image",
+				"imageLeftPx"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"picture",
+				"pictureHeight"
+			],
+			[
+				"setup",
+				"setUpCharacters"
+			],
+			[
+				"ia",
+				"imageTopPx"
+			],
+			[
+				"im",
+				"imageLeftPx"
+			],
+			[
+				"pic",
+				"pictureHeight"
+			],
+			[
+				"hero",
+				"heroSliderHeight"
+			],
+			[
+				"get",
+				"getPictureHt"
+			],
+			[
+				"carousel",
+				"carousel-item-container"
+			],
+			[
+				"time",
+				"timeoutId"
+			],
+			[
+				"navMenu",
+				"navMenuOverWidth"
+			],
+			[
+				"over",
+				"overWidth"
+			],
+			[
+				"navBar",
+				"navBarOverWidth"
+			],
+			[
+				"main",
+				"mainContainer"
+			],
+			[
+				"body",
+				"bodyWrapperHt"
+			],
+			[
+				"m",
+				"mainContainerFooter"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"scro",
+				"scrollTo"
+			],
+			[
+				"prev",
+				"prevBlade"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"blade",
+				"blade4"
+			],
+			[
+				"arrow-r",
+				"arrow-right-grey-lg"
+			],
+			[
+				"bla",
+				"blade-over"
+			],
+			[
+				"snap",
+				"snapListStr"
+			],
+			[
+				"set",
+				"setScrollSnapYValues"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"vi",
+				"videoBladeObjs"
+			],
+			[
+				"vide",
+				"videoIsPlaying"
+			],
+			[
+				"new",
+				"newVideoBladeObj"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"an",
+				"angularFire"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1957,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"code",
+				"Code Folding: Unfold All"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git stash",
+				"Git: Stash Changes"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"gitp",
+				"Git: Pull"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"enn",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmett",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wrpa",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 345.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/taram/Documents/Projects/Tech R and D/generator-taram/app/templates/Gruntfile.js",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/taram/Documents/Projects/Tech R and D/generator-taram/app/index.js",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/User/JsFormat.sublime-settings",
+		"/Users/taram/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/taram/Documents/Projects/Tech R and D/generator-taram/README.md",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/js/data/AppData.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/ipad.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/tv-onnow.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/ipad/index.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/ipad/ipad.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/actor.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/multiview.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/grid-guide.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/onnow.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/TV.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/multiview.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/js/helpers/videoHelper.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/onnow.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/tv.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/home.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/js/helpers/FocusHelper.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/index.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/detail.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/tv-detail.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/tv-actor.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/home.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/detail.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/video.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/js/views/actor.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/js/helpers/jquery.onAnimationFinish.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/index.html",
+		"/Users/taram/Desktop/scene 5 flow.txt",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/css/main.css",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/main.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/css/tv-onnow.css",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/tv/views/grid-guide.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/.gitignore",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/scss/fonts.scss",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/js/data/Message.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/_harness/player.js",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/_harness/video-test.html",
+		"/Users/taram/Documents/Projects/Microsoft/microsoft-otts-tv-cloud-demos/app/css/ipad.css",
+		"/Users/taram/Desktop/microsoft-otts-tv-cloud-demos/app/scss/ipad.scss",
+		"/Users/taram/Desktop/microsoft-otts-tv-cloud-demos/app/ipad/ipad.js",
+		"/Users/taram/Desktop/microsoft-otts-tv-cloud-demos/app/ipad/index.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/_harness/test.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/tv/js/TV.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/shared/normalize.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/main.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/shared/mixins.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/ipad.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/ipad/index.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/ipad/ipad.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/fonts.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/component.json",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/tv/index.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/scss/shared/helpers.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/index.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/ipad.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/Gruntfile.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/multiview.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/data/global-data.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/multiview.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/tv/js/views/multiview.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/video.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/home.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/home.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/detail.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/_harness/player.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/tv.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/tv.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/bower_components/mustache/mustache.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/bower_components/mustache/jquery.mustache.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/bower_components/mustache/README.md",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/server.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/onnow.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/detail.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/notification.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/notification.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/program-detail.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/views/program-guide-onnow.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/iphone.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/data/global.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/tv.data.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/views/video.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/tv.app.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/jquery-plugins.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/tv-data.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/app-data.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/_harness/focus-test.html",
+		"/Users/taram/Desktop/fizzbuzz.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/.gitignore",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/jquery_plugins.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/config.rb",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/live-content-module.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/global.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/remote.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/package.json",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/dist/iphone.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/README.md",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/services/messages.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/services/messages.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/js/data/Message.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/.bowerrc",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/index.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/iphone.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/remote.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/tv.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/package.json",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/Gruntfile.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/scss/main.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/views/home.html",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/js/live-content-module.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/bower_components/jquery-mobile/js/jquery.mobile.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/bower_components/jquery/jquery.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/css/remote/remote.css",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/scss/tv/live-content-module.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/scss/tv/tv.scss",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/js/data/Message.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/js/consumers/MessageConsumer.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/app/public/_harness/test.js",
+		"/Users/taram/Dropbox/RGA/Microsoft/OTTS-TV-Cloud-Demos/config.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"",
+			"/Users/taram/Dropbox/Github Repos/Dog-Walks-Angular"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quot",
+			"ui",
+			"pauseel",
+			"pauseoverlay",
+			"get",
+			"focushelper",
+			"multipleusers",
+			"getmultiple",
+			"renderuiview",
+			"tv.render'",
+			"tv.render",
+			"function renderui",
+			"renderuiview",
+			"renderui",
+			"renderuiview",
+			"currentuiviewid = ",
+			"currentuiviewid",
+			"toggleonnow",
+			"togglepause",
+			"pause()",
+			"pauseoverlay",
+			"pause",
+			"transition",
+			"open",
+			"li class=\"off\"",
+			"class=\"off\"",
+			"togglesub",
+			"grid",
+			"video",
+			"focus",
+			"tabindex",
+			"togglepause",
+			"off",
+			"<video",
+			"video",
+			"placehold",
+			"\"",
+			"transition",
+			"transitionend",
+			"containerEl",
+			"titleEl",
+			"data",
+			"data-view",
+			"video",
+			"\\s*tabindex=\\\"\\d*\\\"",
+			"\"view\"",
+			"data-view",
+			"data",
+			"\\s*tabindex=\\\"\\d*\\\"",
+			"focused",
+			"focus",
+			"select",
+			"item-label",
+			"tabindex",
+			"class",
+			"view",
+			"onanimationfinish",
+			"finish",
+			"animat",
+			"animation",
+			"on",
+			"peter-deborah",
+			"                        <img src=\"/img/tv/actor/icon-rt.png\" alt=\"\">\n                        <img src=\"/img/tv/actor/icon-ap.png\" alt=\"\">\n",
+			"icon-am",
+			"subhead",
+			" header",
+			"showprogram",
+			"hide",
+			"multiple",
+			"renderuiview",
+			"peter-deborah",
+			"Peter",
+			"Program Title",
+			"multiple",
+			"on.",
+			"on",
+			"renderui",
+			"home",
+			"import",
+			"h1",
+			"220x115",
+			"177x115",
+			"220x115",
+			"+",
+			"hide",
+			"grabber",
+			"//",
+			"console",
+			"padding",
+			"showui",
+			" small",
+			"totalSec",
+			"seconds",
+			"minutes",
+			"hours",
+			"icon",
+			"pause",
+			"z-index",
+			"uiel",
+			"/css/fonts",
+			"4",
+			"ipad",
+			"iphone",
+			"px",
+			"escape",
+			"escapehtml",
+			"encode",
+			"jquery",
+			"overlayContainer",
+			"videoContainer",
+			"pip",
+			"'",
+			"onnow",
+			"loadView",
+			"video",
+			"screen",
+			"liveContentContainer",
+			"$this",
+			"html",
+			"in ",
+			"build_dirs",
+			"app/",
+			"'",
+			"build_dirs.dest",
+			"build_dirs.src",
+			"build-dirs",
+			"build.src",
+			"build.dest"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"li",
+			"&quot;",
+			"",
+			"icon-ap",
+			"",
+			"Peter&Deborah",
+			"Deborah",
+			"Program Title Peter",
+			"220x165",
+			"180x134",
+			"188x162",
+			"250x188",
+			"",
+			"seconds",
+			"secs",
+			"mins",
+			"hrs",
+			"/fonts",
+			"fgContainer",
+			"bgContainer",
+			"video-container",
+			"\"",
+			"detail",
+			"notification",
+			"showView",
+			"multiview",
+			"liveContent",
+			"$element",
+			"builddirs",
+			"<%= build_dirs.source %>/",
+			"\"",
+			"build_dirs.destination",
+			"build_dirs.source",
+			"build_dirs",
+			"build-dirs.src",
+			"build-dirs.dest",
+			"\"",
+			"",
+			"\"",
+			"phone-list",
+			"URLs",
+			"serviceProxiedURL",
+			"byOffices",
+			"people",
+			"offices",
+			"\"",
+			"$http",
+			"",
+			"$characterImage",
+			"$character",
+			"setUpContainers",
+			"nin.els.$body",
+			"nin.els.$window",
+			"navBarMainContainerFooter",
+			"> .copy",
+			"diff",
+			"targetTop",
+			"button arrow-up arrow-up-",
+			"button arrow-down arrow-down-",
+			"Learn more",
+			"<i>",
+			"<a class=\"button arrow-up-white\"><i class=\"arrow\">",
+			"<a class=\"button arrow-down-white\"><i class=\"arrow\">",
+			"<a class=\"button arrow-down-grey\"><i class=\"arrow\">",
+			"<a class=\"button arrow-up-grey\"><i class=\"arrow\">",
+			"white",
+			"endcap",
+			"fonts/",
+			"\"",
+			"\"dogs\"",
+			"Dogs",
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 1957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"quotmark": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.js",
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"quotmark": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 181.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true
+}

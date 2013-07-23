@@ -12,7 +12,3 @@ A generator for Yeoman.
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 =======
-generator-taram
-===============
-
-Yeoman generator for my stuff
